@@ -1,4 +1,4 @@
-# Επικοινωνία ανθρώπου-υπολογιστή
+# Πολυμέσα
 
 * Ημέρες και ώρες συναντήσεων στο εργαστήριο ανάλογα με το τελευταίο νούμερο στον ΑΜ: 8μμ (Ζυγά), 7μμ (Μονά) για την περίοδο μέχρι 15 Νοεμβρίου, καθώς και για τις ημερομηνίες προφορικής παρουσίασης
 * Οσο πιο ενεργή (και ουσιαστική) είναι η συμμετοχή σας εδώ τόσο καλύτερος ο βαθμός της τελικής εργασίας. Δεν γίνονται δεκτές αλλαγές για λογαριασμό άλλου.
@@ -18,12 +18,13 @@
 Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα και τους βοηθούς του μαθήματος. 
 
 * [Εκπαιδευτικό βιντεο-παιχνίδι](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing)
+* Processing visualization (Demos: [Processing Exhibition](https://processing.org/exhibition/), [Information aesthetics](http://infosthetics.com/)  Notable Demos: [Rocketgraph](https://rocketgraph.com/marketplace) (Visualisation marketplace)) , [WeFeelFine](http://wefeelfine.org/ ) (Visualization), [TenByTen](TenByTen (Mashup)) (Mashup) )
 * [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Geographic System](https://www.mapito.org/home)
 * [Exercise motivation](https://github.com/andrid/Run2gether)
 * [App inventor Apps](https://docs.google.com/document/d/19P9Zaz6sMRPNqUH361c-KWTptg91Y6uIiJNWuZVL3rI/edit?usp=sharing)
-* [Mod για Minecraft ή Minetest](https://docs.google.com/document/d/1RNii-Z0yPsyKrUhf2thV_VgTNpqFP-zDAc1fCgcWDQI/edit?usp=sharing)
+* [video games and news](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
@@ -52,29 +53,53 @@
 
 ##Syllabus
 
-**Περιγραφή:** Διάδραση: ορισμός και ιστορική εξέλιξη, βασικά στάδια σχεδίασης της διάδρασης, Τεχνολογίες προγραμματισμού της διάδρασης, Σύγχρονες εφαρμογές, πειράματα διάδρασης με χρήστες.
+**Περιγραφή:** Πολυμέσα και διάδραση: ορισμός και ιστορική εξέλιξη, Πέντε επίπεδα σχεδίασης πολυμέσων, Τεχνολογίες πολυμέσων, Εικόνες, Βίντεο, Κείμενο, Είσοδος δεδομένων, Παρουσίαση της σχεδίασης, Ηχος, Γραφικά και αλγόριθμοι, Σύγχρονες εφαρμογές πολυμέσων, Πολυμέσα και τέχνη.
 
-**Προαπαιτούμενα:**Εισαγωγή στον προγραμματισμό
+**Προαπαιτούμενα:** Εισαγωγή στον προγραμματισμό, Αντικειμενοστραφής προγραμματισμός, Επικοινωνία Ανθρώπου-Υπολογιστή, (Αλγόριθμοι, Τεχνολογίες Διαδικτύου), USB key ([Learning Processing Examples](https://github.com/shiffman/LearningProcessing), Learning Processing book)
 
-**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην σχεδίαση και ανάπτυξη της διάδρασης. Η θεωρία και το project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, οι ψηφιακές συλλογές, και οι ψυχαγωγικές εφαρμογές.
+**Στόχος:** Ο σκοπός του μαθήματος είναι η μελέτη της θεωρίας και η πρακτική εξάσκηση στην ανάπτυξη των πολυμέσων. Η θεωρία και το υποχρεωτικό project καλύπτουν πολλές διαφορετικές περιοχές εφαρμογών με έμφαση σε επίκαιρες εφαρμογές όπως οι εκπαιδευτικές εφαρμογές, οι ψηφιακές συλλογές, και οι ψυχαγωγικές εφαρμογές.
 
 **Μέθοδος διδασκαλίας:** Διαλέξεις, demos, project.
 
 **Ηλεκτρονικά φροντιστήρια / Απορίες:** Αν η απορία που έχετε δεν έχει ήδη απαντηθεί στα issues του github (δεξιά το κουμπάκι issues με το θαυμαστικό), τότε μπορείτε να δημιουργήσετε ένα νέο issue στο οποίο θα θέτετε το ερώτημά σας.  Σε κάθε περίπτωση, ο καλύτερος χώρος για να πάρετε σαφή απάντηση σε ερώτημά σας είναι μέσα στην τάξη. Ερωτήσεις που έχουν απαντηθεί ήδη στις παραπάνω περιοχές θα αγνοούνται. 
 
-**Βοηθοί μαθήματος(Διδακτορικοί Φοιτητές):** Αλεξανδρος Μερκούρης (e-learning): c14merk@ionio.gr
+**Βοηθοί μαθήματος(Διδακτορικοί Φοιτητές):** Βαρβάρα Γαρνέλη: c13garn@ionio.gr, Διογένης Αλεξανδράκης (e-learning): email?
 
 **Βιβλίο μαθήματος:** 
 
-* "Επικοινωνία ανθρώπου - υπολογιστή, 3ή Έκδοση", Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007 
-* "Σχεδίαση διεπαφής χρήστη, 5ή Έκδοση", Ben Shneiderman, Catherine Plaisant μετάφραση: Γιώργος Καλπάκης επιμέλεια: Στέφανος Κατσαβούνης, Εκδόσεις Α. Τζιόλα & Υιοί Α.Ε., ISBN 978-960-418-256-5, 2010
+* Πολυμέσα Θεωρία και Πράξη", Steinmetz Ralf, 2002, Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN: 978-960-512-330-7 
+* [Multimedia: from Wagner to Virtual Reality](http://www.w2vr.com/contents.html)
 * [Ο Προγραμματισμός της Διάδρασης](http://www.pibook.gr)
 
 **Βαθμολογία:** 60% project, 40% Τελική εξέταση
 
-**Σχετικές σελίδες για την Επικοινωνία Ανθρώπου-Υπολογιστή:**
+**Για τις εργασίες, εκτός από το βιβλίο, τις σημειώσεις, και τις παρουσιάσεις στην τάξη, θα σας φανεί χρήσιμο και το παρακάτω υλικό:**
 
-* https://www.coursera.org/course/hci
-* http://videolectures.net/chi08_kieras_phc/
-* http://videolectures.net/chi08_jacob_csh/
-* http://hci.stanford.edu/courses/cs547/
+https://www.coursera.org/course/digitalmedia
+
+**Σχετικές σελίδες για τα Πολυμέσα:**
+
+Library:
+* http://www.processing.org/exhibition/
+* https://www.coursera.org/course/digitalmedia
+* http://d3js.org/
+* https://www.udacity.com/course/ud507
+* http://leafletjs.com/
+* http://simile-widgets.org/exhibit/
+* http://nbviewer.jupyter.org/github/ptwobrussell/Mining-the-Social-Web-2nd-Edition/tree/master/ipynb/
+
+Books:
+* The Elements of User Experience: User-Centered Design for the Web, by Jesse James Garrett, Peachpit Press (2002)
+* Getting Started with Processing, Casey Reas and Ben Fry (2010)
+* Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction, by Daniel Shiffman, Morgan Kaufmann (2008)
+* Multimedia: From Wagner to Virtual Reality
+
+Videos:
+* [Jonathan Harris collects stories](http://www.ted.com/talks/jonathan_harris_collects_stories?language=en)
+artist Jonathan Harris discusses his latest projects, which involve collecting stories: his own, strangers', and stories collected from the Internet, including his amazing "We Feel Fine."
+* [Golan Levin on software (as) art](http://www.ted.com/talks/golan_levin_on_software_as_art)
+Engineer and artist Golan Levin pushes the boundaries of what’s possible with audiovisuals and technology. In an amazing TED display, he shows two programs he wrote to perform his original compositions. 
+
+Links
+
+
