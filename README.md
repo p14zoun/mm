@@ -100,6 +100,10 @@ artist Jonathan Harris discusses his latest projects, which involve collecting s
 * [Golan Levin on software (as) art](http://www.ted.com/talks/golan_levin_on_software_as_art)
 Engineer and artist Golan Levin pushes the boundaries of what’s possible with audiovisuals and technology. In an amazing TED display, he shows two programs he wrote to perform his original compositions. 
 
-Links
+Additional Links:
+* [OpenProcessing](http://www.openprocessing.org/) offers code
+
+E-Class Links: παρωχημένα?
+
 
 
