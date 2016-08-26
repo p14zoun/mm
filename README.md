@@ -23,7 +23,6 @@
 * [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Geographic System](https://www.mapito.org/home)
-* [Exercise motivation](https://github.com/andrid/Run2gether)
 * [video games and news](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv)
 * [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 
