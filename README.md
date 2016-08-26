@@ -104,7 +104,3 @@ Engineer and artist Golan Levin pushes the boundaries of what’s possible with 
 Additional Links:
 * [OpenProcessing](http://www.openprocessing.org/) offers code
 
-E-Class Links: παρωχημένα?
-
-
-
