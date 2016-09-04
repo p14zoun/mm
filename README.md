@@ -19,12 +19,13 @@
 
 * [Εκπαιδευτικό βιντεο-παιχνίδι](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing)
 * [App inventor Apps](https://docs.google.com/document/d/19P9Zaz6sMRPNqUH361c-KWTptg91Y6uIiJNWuZVL3rI/edit?usp=sharing)
-* Processing visualization (Demos: [Processing Exhibition](https://processing.org/exhibition/), [Information aesthetics](http://infosthetics.com/)  Notable Demos: [Rocketgraph](https://rocketgraph.com/marketplace) (Visualisation marketplace)) , [WeFeelFine](http://wefeelfine.org/ ) (Visualization), [TenByTen](TenByTen (Mashup)) (Mashup) )
+* [Processing](http://www.processing.org) or [D3JS](https://d3js.org/) visualization (Demos: [Processing Exhibition](https://processing.org/exhibition/), [Information aesthetics](http://infosthetics.com/)  Notable Demos: [Rocketgraph](https://rocketgraph.com/marketplace) (Visualisation marketplace)) , [WeFeelFine](http://wefeelfine.org/ ) (Visualization), [TenByTen](TenByTen (Mashup)) (Mashup) )
 * [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Geographic System](https://www.mapito.org/home)
 * [video games and news](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv)
 * [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
+* [Virtual Reality Application](https://developers.google.com/vr/)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
