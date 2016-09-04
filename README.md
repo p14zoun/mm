@@ -26,6 +26,7 @@
 * [video games and news](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv)
 * [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 * [Virtual Reality Application](https://developers.google.com/vr/)
+* [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
