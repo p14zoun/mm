@@ -17,12 +17,8 @@
 
 Αν για παράδειγμα δεν έχετε πολύ χρόνο τότε το πιο λογικό είναι να επιλέξετε μια εργασία που έχει μικρό βαθμό δυσκολίας. Πέρα από τα παρακάτω ενδεικτικά θέματα μπορείτε να διαλέξετε άλλο θέμα με βάση τα ενδιαφέροντα σας και μόνο σε συμφωνία με τον διδάσκοντα και τους βοηθούς του μαθήματος. 
 
-* [Εκπαιδευτικό βιντεο-παιχνίδι](https://docs.google.com/document/d/1wyW_wgkojPfs4p4JYba-BVe5Dzo0W7SJwmpRh4A1Oz4/edit?usp=sharing)
-* [App inventor Apps](https://docs.google.com/document/d/19P9Zaz6sMRPNqUH361c-KWTptg91Y6uIiJNWuZVL3rI/edit?usp=sharing)
 * [Processing](http://www.processing.org) or [D3JS](https://d3js.org/) visualization (Demos: [Processing Exhibition](https://processing.org/exhibition/), [Information aesthetics](http://infosthetics.com/)  Notable Demos: [Rocketgraph](https://rocketgraph.com/marketplace) (Visualisation marketplace)) , [WeFeelFine](http://wefeelfine.org/ ) (Visualization), [TenByTen](TenByTen (Mashup)) (Mashup) )
-* [Video analytics](http://www.socialskip.org) 
-* [Twitter visualization](http://www.flutrack.org)
-* [Geographic System](https://www.mapito.org/home)
+* Multimedia system maintenance and updates: [Video analytics](http://www.socialskip.org), [Twitter visualization](http://www.flutrack.org), [Geographic System](https://www.mapito.org/home)
 * [video games](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv) and [news] (https://insidestory.gr/article/newsgames?token=306B235VC4)
 * [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 * [Virtual Reality Application](https://developers.google.com/vr/)
