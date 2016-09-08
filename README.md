@@ -23,7 +23,7 @@
 * [Video analytics](http://www.socialskip.org) 
 * [Twitter visualization](http://www.flutrack.org)
 * [Geographic System](https://www.mapito.org/home)
-* [video games and news](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv)
+* [video games](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv) and [news] (https://insidestory.gr/article/newsgames?token=306B235VC4)
 * [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html)
 * [Virtual Reality Application](https://developers.google.com/vr/)
 * [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
