@@ -19,7 +19,7 @@
 
 * Interactive visualization: [Processing](http://www.processing.org) or [D3JS](https://d3js.org/) visualization, Demos: [Processing Exhibition](https://processing.org/exhibition/), [Information aesthetics](http://infosthetics.com/)  [Rocketgraph](https://rocketgraph.com/marketplace), [WeFeelFine](http://wefeelfine.org/), [TenByTen](TenByTen)
 * Multimedia system maintenance and updates: [Video analytics](http://www.socialskip.org), [Twitter visualization](http://www.flutrack.org), [Geographic System](https://www.mapito.org/home)
-* New media applications: [video games](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv) and [news] (https://insidestory.gr/article/newsgames?token=306B235VC4), [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html), [Virtual Reality Application](https://developers.google.com/vr/), [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko)
+* New media applications: [video games](https://fold.cm/read/juliannalongo/playing-the-news-GqeAYpXv) and [news] (https://insidestory.gr/article/newsgames?token=306B235VC4), [Cultural analytics](http://lab.softwarestudies.com/p/software-for-digital-humanities.html), [Virtual Reality Application](https://developers.google.com/vr/), [Augmented Reality Applications](https://drive.google.com/open?id=1LA3NURsgBpCODXi38n3hxpG27IJ3TqBL3iKW-4nWoko), [Unreal Engine applications] (https://www.dropbox.com/s/ew9tj2q28b1u81c/New%20media%20applications.docx?dl=0)
 
 
 Η παράδοση των εργασιών γίνεται μόνο στο github, τα επισυναπτόμενα σε email διαγράφονται χωρίς να διαβαστούν, για την εκμάθηση του συστήματος github προτείνονται τα παρακάτω:
