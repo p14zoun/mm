@@ -26,7 +26,7 @@
 
 [How to Use Git and GitHub](https://www.udacity.com/course/ud775)
 
-[Βίντεο](https://www.youtube.com/watch?v=hvCRkCm5uiI&feature=youtu.be) με οδηγίες για την εγγραφή και χρήση του Github στο μάθημα κινητά και κοινωνικά μέσα που θα σας φανούν χρήσιμες και στο μάθημα πολυμέσα.
+[Βίντεο](https://www.youtube.com/watch?v=hvCRkCm5uiI&feature=youtu.be) με οδηγίες για την εγγραφή και χρήση του Github στο μάθημα Κινητά και Κοινωνικά Μέσα που θα σας φανούν χρήσιμες και στο μάθημα Πολυμέσα.
 
 ### 0. Μπόνους δύο βαθμοί, *A: 26 Οκτωβρίου*, *B: 21 Ιανουαρίου*
 
