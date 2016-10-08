@@ -19,7 +19,7 @@
 ![Image](https://raw.githubusercontent.com/courses-ionio/mm/master/projects_2016/%CE%A02012000/player2.jpg)
 ![Image](https://raw.githubusercontent.com/courses-ionio/mm/master/projects_2016/%CE%A02012000/form.jpg)
 
-
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/form.jpg)
 
 ##Παραδοτέο 3
 
