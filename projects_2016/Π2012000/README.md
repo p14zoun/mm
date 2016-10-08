@@ -92,3 +92,14 @@ To Video Analytics είναι μία διαδικτυακή εφαρμογή π�
 
 **Διάγραμμα λειτουργίας**
 ![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/videoanalytics.png)
+
+**Ενδεικτικές οθόνες**
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/9.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/10.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/11.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/12.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/13.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/14.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/15.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/16.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/17.jpg)
