@@ -1,4 +1,4 @@
-#Video analytics
+'''#Video analytics'''
 
 Κωνσταντίνος Παρδάλης
 
@@ -6,12 +6,14 @@
 
 *(αντίστοιχα και τα στοιχεία των υπολοίπων των μελών της ομάδας σε περίπτωση ομαδικής εργασίας)*
 
+
 ##Παραδοτέο 1
 (Πρόοδος)
 
 * Εναλλακτικές εμφανίσεις του video player.
 
 * Εγγραφή στην πλατφόρμα μέσω μίας φόρμας.
+
 
 
 
@@ -26,6 +28,7 @@
 ![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/player2.jpg)
 
 ![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/form.jpg)
+
 
 
 ##Παραδοτέο 3
@@ -53,9 +56,7 @@
 
 ![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/8.jpg)
 
-##Παραδοτέο 4
 
-...
 
 ##Tελική Αναφορά
 
