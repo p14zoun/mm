@@ -1,6 +1,9 @@
 #Video analytics
+
 Κωνσταντίνος Παρδάλης
+
 ΑΜ: Π2011026
+
 (αντίστοιχα και τα στοιχεία των υπολοίπων των μελών της ομάδας σε περίπτωση ομαδικής εργασίας)
 
 ##Παραδοτέο 1
@@ -40,6 +43,15 @@
 
 * Προσθήκη κουμπιών για download των δεδομένων.
 
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/4.jpg)
+
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/5.jpg)
+
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/6.jpg)
+
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/7.jpg)
+
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/8.jpg)
 
 ##Παραδοτέο 4
 
