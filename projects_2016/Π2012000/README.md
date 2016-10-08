@@ -1,4 +1,4 @@
-'''#Video analytics'''
+#Video analytics
 
 Κωνσταντίνος Παρδάλης
 
