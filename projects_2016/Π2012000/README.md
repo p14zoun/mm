@@ -109,10 +109,10 @@ To Video Analytics είναι μία διαδικτυακή εφαρμογή π�
 **Μελλοντική δουλειά**
 
 * Ανέβασμα στο github
-* Βελτιώση του video player (π.χ να δίνεται στο χρήστη η δυνατότητα για μεγέθυνση/σμίκρυνση των κουμπιών, προσθήκη περισσότερων skin) όπως εδώ
+* Βελτιώση του video player (π.χ να δίνεται στο χρήστη η δυνατότητα για μεγέθυνση/σμίκρυνση των κουμπιών, προσθήκη περισσότερων skin) όπως [εδώ](http://www.google.com/url?q=http%3A%2F%2Fflowplayer.org%2Fdocs%2Fskinning.html&sa=D&sntz=1&usg=AFQjCNEf-MmMIFeWKleJQa6ri3vp9syMkg)
 * Αποθήκευση δεδομένων σε Fusion Τable του χρήστη, ώστε να υπάρχει ιδιωτικότητα
 * Ολοκλήρωση (system integration) των βασικών δυνατοτήτων του VideoAnalytics (code embedding, custom buttons, private tables) με το σύστημα SocialSkip έτσι ώστε οι ερευνητές να μπορούν να κάνουν πειράματα σε όποια σελίδα θέλουν, με όποια κουμπιά θέλουν, και να κρατάνε ιδιωτικά τα δεδομένα τους
-* Ολοκλήρωση με google analytics (όπως εδώ και εδώ)
+* Ολοκλήρωση με google analytics (όπως [εδώ](https://code.google.com/p/ga-youtube-tracker/wiki/HowToTrackEmbeddedYoutubeWithGoogleAnalytics) και [εδώ](http://www.google.com/url?q=http%3A%2F%2Fwww.lunametrics.com%2Fblog%2F2012%2F10%2F22%2Fautomatically-track-youtube-videos-events-google-analytics%2F%23sr%3Dd%26m%3Dn%26cp%3Dd%26ct%3D-tmc%26ts%3D1390578793&sa=D&sntz=1&usg=AFQjCNFc84tTeLObdKWm1vguf3QhtIFFKg))
 
 **Συμπεράσματα**
 
