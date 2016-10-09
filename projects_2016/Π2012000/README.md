@@ -23,11 +23,11 @@
 Προσθήκη επιπλέον κουμπιών στον player τα οποία μπορεί ο χρήστης να επιλέξει αν θέλει να εμφανίζονται η όχι. Αυτό γίνεται μέσω μία φόρμας στη σελίδα που μπορεί ο διαχειριστής να επεξεργαστεί τα βίντεο του.
 Για την υλοποίηση και του σχεδιασμό του player χρησιμοποιήθηκε jquery ui και για την υλοποίηση της φόρμας jquery mobile.
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/player1.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/player1.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/player2.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/player2.jpg)
 
-![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/%25CE%25A02012000/form.jpg)
+![Image](https://github.com/courses-ionio/mm/blob/master/projects_2016/Π2012000/form.jpg)
 
 
 
