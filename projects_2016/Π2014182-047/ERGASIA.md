@@ -1,4 +1,4 @@
-#Τίτλος Εργασίας
+#Interactive visualization
 
 ΜΑΡΙΑ ΜΑΛΑΚΟΠΟΥΛΟΥ 
 ΑΜ : Π2014182
@@ -7,6 +7,8 @@
 
 
 ##Παραδοτέο 1
+ΘΕΜΑ ΕΡΓΑΣΙΑΣ :
+Interactive visualization
 
 ...
 
